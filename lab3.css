@@ -1,0 +1,34 @@
+.display-box{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+    border: solid black 0.5px;
+    color: black;
+    border-radius: 5px;
+    height: 60px;
+    width: 180px;
+    font-size: 20px;
+}
+input[type=button] {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    border: solid black 0.5px;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    height: 60px;
+    width: 60px;
+    font-size: 20px;
+    ;
+}
+.container{
+    width: 100%;
+    width:100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.Calculator{
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+}
